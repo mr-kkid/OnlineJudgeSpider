@@ -1,7 +1,7 @@
 from VirtualJudgeSpider.OJs.HDUClass import HDU
 from VirtualJudgeSpider.OJs.POJClass import POJ
 from VirtualJudgeSpider.OJs.WUSTClass import WUST
-from VirtualJudgeSpider.OJs.FZU import FZU
+from VirtualJudgeSpider.OJs.FZUClass import FZU
 
 support_ojs = ['HDU', 'WUST','FZU']
 
