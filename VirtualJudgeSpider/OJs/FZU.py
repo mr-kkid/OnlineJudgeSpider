@@ -9,7 +9,7 @@ from VirtualJudgeSpider.Config import Problem, Spider, Result
 from VirtualJudgeSpider.OJs.BaseClass import Base
 
 
-class FZU(Base):
+class FZUClass(Base):
     def __init__(self):
         self.code_type = 'utf-8'
         self.cj = cookiejar.CookieJar()
